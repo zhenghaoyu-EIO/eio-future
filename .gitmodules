@@ -1,0 +1,9 @@
+[submodule "modules/eio-android-firmware"]
+	path = modules/eio-android-firmware
+	url = https://github.com/zhenghaoyu-EIO/eio-android-firmware
+[submodule "modules/eio-android-sdk"]
+	path = modules/eio-android-sdk
+	url = https://github.com/zhenghaoyu-EIO/eio-android-sdk
+[submodule "modules/eio-samples"]
+	path = modules/eio-samples
+	url = https://github.com/zhenghaoyu-EIO/eio-samples
